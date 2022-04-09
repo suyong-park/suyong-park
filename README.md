@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### My Blog
+<a href="[https://velog.io/@spdlqjfire]" target="_blank"><img src="https://img.shields.io/badge/[velog]-[20C997]?style=flat-square&logo=[velog]&logoColor=white"/></a>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=suyong-park)
 
 ![suyong-park github stats](https://github-readme-stats.vercel.app/api?username=suyong-park&show_icons=true)
