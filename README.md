@@ -2,11 +2,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyong-park&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### My Blog
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=black">
-
-#### Tech Stack
 <div align="center">
+  <h4>Blogs</h4>
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=black">
+</div>
+
+<div align="center">
+  <h4>Tech Stack</h4>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black">
 </div>
