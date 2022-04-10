@@ -7,16 +7,23 @@
   <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=black">
 </div>
 
+
 <div align="center">
   <h4>Tech Stack</h4>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black">
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=suyong-park)
+
+
+
 
 ![suyong-park github stats](https://github-readme-stats.vercel.app/api?username=suyong-park&show_icons=true)
+
+
+
 [![suyong-park github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=suyong-park&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/suyong-park)
+
 
 <!--
 **suyong-park/suyong-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +38,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
